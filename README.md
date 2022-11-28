@@ -24,9 +24,9 @@ The collection of useful google app scripts..
 
 接著開啟建立好的試算表，基於此試算表建立新的表單。這邊表單內容依據模板文件，請填表人輸入姓名、電話、地址及電子郵件。而這些表單資料，將會填入我們事先建立好的模板文件所指定的位置當中。
 
-### 二、設置 google app scrips
+### 二、設置 google apps scrip
 
-同樣再次開啟建立好的試算表，於上方擴充功能開啟 app scripts，並將此 [程式碼](send-email-from-forms.js) 複製到**程式碼.gs**中。
+同樣再次開啟建立好的試算表，於上方擴充功能開啟 apps script，並將此 [程式碼](send-email-from-forms.js) 複製到**程式碼.gs**中。
 
 接著，設定觸發條件 (trigger)，這邊選擇設定「表單提交時」觸發。
 
